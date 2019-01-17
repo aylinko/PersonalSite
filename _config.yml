@@ -41,13 +41,6 @@ footer-col: "#FFFFFF"
 footer-text-col: "#404040"
 footer-link-col: "#7cb5b5"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
-
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -60,7 +53,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  rss: true
   email: "akosar077@gmail.com"
   github: "https://github.com/aylinko"
   inkedin: "https://www.linkedin.com/in/akosar/"
