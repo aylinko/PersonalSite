@@ -22,24 +22,23 @@ title: "Aylin Kosar"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#404040"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+hover-col: "#7cb5b5"
+footer-col: "#FFFFFF"
+footer-text-col: "#404040"
+footer-link-col: "#7cb5b5"
+
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
