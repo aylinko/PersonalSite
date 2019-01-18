@@ -12,6 +12,7 @@
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+ 
 
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -32,6 +33,7 @@
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+  <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
     {% endfor %}
   {% endif %}
 
