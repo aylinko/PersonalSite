@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-$Serif: 'Libre Baskerville', serif;
+font-family: $Serif; // $LibreBaskerville; 
