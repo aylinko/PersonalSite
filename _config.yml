@@ -5,6 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://aylinko.github.io"
+baseurl: ""
 title: "Aylin Kosar"
 
 # --- Navigation bar options --- #
@@ -12,7 +13,7 @@ title: "Aylin Kosar"
 # List of links in the navigation bar
 navbar-links:
   Work : "work"
-  Stories: "stories"
+  Stories: "posts"
 
 # --- Background colour/image options --- #
 
