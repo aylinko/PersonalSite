@@ -3,6 +3,7 @@ layout: null
 published: true
 ---
 @import url("pygment_highlights.css");
+@import "{{ site.theme }}";
 
 /* --- General --- */
 
