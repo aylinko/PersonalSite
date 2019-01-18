@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://aylinko.github.io"
-baseurl: "https://aylinko.github.io/"
+baseurl: "aylinko.github.io"
 title: "Aylin Kosar"
 
 # --- Navigation bar options --- #
