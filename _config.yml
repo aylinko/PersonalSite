@@ -12,9 +12,8 @@ title: "Aylin Kosar"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Projects: "projects"
-  Posts: "posts"
+  Work : "work"
+  Stories: "posts"
 
 # --- Background colour/image options --- #
 
