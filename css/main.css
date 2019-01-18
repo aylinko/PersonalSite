@@ -2,10 +2,9 @@
 layout: null
 published: true
 ---
-
 @import url("pygment_highlights.css");
 
- /* --- General --- */
+/* --- General --- */
 
 body {
   font-family: 'Libre Baskerville', serif;
