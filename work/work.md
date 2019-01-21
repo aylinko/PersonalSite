@@ -1,7 +1,6 @@
----
-title : Work
-subtitle: Below are all the projects I have worked on.
----
+# Work
+
+#### Below are projects I have worked on.
 
 ### **Imprisonment vs. Country Corruption & Government Type**
 <p> Spring 2018 </p>
