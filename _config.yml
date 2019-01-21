@@ -24,7 +24,7 @@ title: Aylin Kosar
 # List of links in the navigation bar
 navbar-links:
   Home: "https://aylinko.github.io"
-  Work: "https://aylinko.github.io/work"
+  Work: "work"
   Stories: "posts"
  
 # If you want to have an image logo in the top-left corner instead of the title text,
