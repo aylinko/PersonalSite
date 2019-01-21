@@ -1,4 +1,5 @@
 **Imprisonment vs. Country Corruption & Government Type**
+
 Spring 2018
 Data Mining
 
@@ -8,6 +9,7 @@ A recreation of this project can be found in the **Stories** section.
 
 
 **The Incarceration Rates in the United States**
+
 April — May 2016
 Structured Programming
 
