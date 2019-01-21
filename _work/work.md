@@ -1,4 +1,11 @@
-**Imprisonment vs. Country Corruption & Government Type**
+---
+---
+
+# Work
+
+#### Below are all the projects I have worked on.
+
+### **Imprisonment vs. Country Corruption & Government Type**
 <p> Spring 2018 </p>
 <p> Data Mining </p>
 
@@ -7,8 +14,8 @@ The data set was created from scratch using multiple sources. Using Weka and Tab
 A recreation of this project can be found in the **Stories** section.  
 
 
-**The Incarceration Rates in the United States**
-<p> April — May 2016 </p>
+### **The Incarceration Rates in the United States**
+<p> April â€” May 2016 </p>
 <p> Structured Programming </p>
 
 This was a group project using K-means clustering in Python. We concluded Republican states spent less on their inmates and rehabilitation services i.e., putting them on probation. While the Democratic states gave inmates the chance to get back into the workforce and there were lower incarceration rates.
