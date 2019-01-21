@@ -68,8 +68,8 @@ author:
 social-network-links:
   rss: true
   email: "akosar077@gmail.com"
-  github: "https://github.com/aylinko/"
-  linkedin: "https://www.linkedin.com/in/akosar/"
+  github: "/aylinko"
+  linkedin: "/in/akosar"
 
 # Select which share links to show in posts
 share-links-active:
