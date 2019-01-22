@@ -2,6 +2,7 @@
 layout: page
 title: Work
 subtitle: Below are projects I have worked on
+permalink: /work/
 ---
 
 # Work
