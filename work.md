@@ -5,19 +5,7 @@ subtitle: Below are projects I have worked on
 permalink: /work/
 ---
 
-body { 
-
-font-size:12px
-
-{
-
-h1, h2, h3, h4, h5, h6 {
-
-color:# 404040
-
-{
-
-### **Imprisonment vs. Country Corruption & Government Type**
+<span style = "color: #404040"> ### **Imprisonment vs. Country Corruption & Government Type** </span>
 Spring 2018
 Data Mining 
 
@@ -25,7 +13,7 @@ The data set was created from scratch using multiple sources. Using Weka and Tab
   
 A recreation of this project can be found in the **Stories** section.  
 
-### **The Incarceration Rates in the United States**
+<span style = "color: #404040"> ### **The Incarceration Rates in the United States** </span>
 April - May 2016 
 Structured Programming 
 
