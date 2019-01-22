@@ -24,9 +24,8 @@ A recreation of this project can be found in the **Stories** section.
 
 
 ### **The Incarceration Rates in the United States**
-<p> April - May 2016 </p>
-<p> Structured Programming </p>
-
+#### April - May 2016 
+#### Structured Programming 
 **Tools Used:**  Python 
 
 This was a group project using K-means clustering. We concluded Republican states spent less on their inmates and rehabilitation services i.e., putting them on probation. While the Democratic states gave inmates the chance to get back into the workforce and there were lower incarceration rates.
