@@ -10,7 +10,7 @@ permalink: /work/
 #### MIT Capstone 
 **Tools Used:**  R, Tableau 
 
-Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs    in Boston
+Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs    in Boston.
 
 
 ### **Imprisonment vs. Country Corruption & Government Type**
