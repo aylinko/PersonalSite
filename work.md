@@ -5,7 +5,7 @@ subtitle: Below are projects I have worked on
 permalink: /work/
 ---
 
-<span style = "color: #404040"> ### **Imprisonment vs. Country Corruption & Government Type**</span>
+### **Imprisonment vs. Country Corruption & Government Type**{: style= color:#404040"}
 Spring 2018
 Data Mining 
 
