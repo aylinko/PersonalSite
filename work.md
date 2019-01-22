@@ -7,7 +7,7 @@ permalink: /work/
 
 ### **Imprisonment vs. Country Corruption & Government Type**
 <br> Spring 2018 </br>
-<br> Data Mining </br>
+Data Mining 
 
 The data set was created from scratch using multiple sources. Using Weka and Tableau, I wanted to find out if there was a correlation between government type and corruption level with the amount of incarcerated people and jails each country and some territories have. The results showed there was no correlation between the type of government and level of corruption with the amount of people imprisoned and the number of prisons each country has.  
   
