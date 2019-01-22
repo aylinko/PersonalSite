@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Aylin Kosar
 permalink: /home/
 ---
 
