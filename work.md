@@ -16,7 +16,7 @@ Recidivism was analyzed and visualized by using a combination of prison and fris
 ### **Imprisonment vs. Country Corruption & Government Type**
 #### April - May 2018
 #### Data Mining 
-#####**Tools Used:**  Weka, Tableau, & Excel 
+**Tools Used:**  Weka, Tableau, & Excel 
 
 The data set was created from scratch using multiple sources. I wanted to find out if there was a correlation between government type and corruption level with the amount of incarcerated people and jails each country and some territories have. The results showed there was no correlation between the type of government and level of corruption with the amount of people imprisoned and the number of prisons each country has.  
   
