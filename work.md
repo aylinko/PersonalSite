@@ -5,7 +5,7 @@ subtitle: Below are projects I have worked on
 permalink: /work/
 ---
 
-### **Imprisonment vs. Country Corruption & Government Type**{: style="color: red"}
+### **Imprisonment vs. Country Corruption & Government Type**
 Spring 2018
 Data Mining 
 
