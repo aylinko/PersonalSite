@@ -6,8 +6,8 @@ permalink: /work/
 ---
 
 ### **Determining the Main Factors for Recidivism in Boston**
-<p> September - December 2018 </p>
-<p> MIT Capstone </p>
+<p> September - December 2018 
+<p> MIT Capstone 
 
 **Tools Used:**  R, Tableau 
 
