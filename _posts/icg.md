@@ -7,6 +7,7 @@ permalink: /stories/
 ## Background
 Does the number of of people imprisoned, number of penal institutions, and amount of corruption have anything to do with the type of government a country has?
 
+
  
 
 
