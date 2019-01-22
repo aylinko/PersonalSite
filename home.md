@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aylin Kosar
+permalink: /home/
 ---
 
  I recently graduated from Rutgers University with a master’s degree in Information Technology and Analytics (MITA). By utilizing my skills in statistical data analysis, data mining and data visualization, I would like to apply it to my interests related to crime, corruption, prison studies, and international relations. 
