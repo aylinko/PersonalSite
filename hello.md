@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Hello
+layout: post
+title: Hellow
 permalink: /stories/
 ---
 
