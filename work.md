@@ -19,3 +19,4 @@ Structured Programming
 
 This was a group project using K-means clustering in Python. We concluded Republican states spent less on their inmates and rehabilitation services i.e., putting them on probation. While the Democratic states gave inmates the chance to get back into the workforce and there were lower incarceration rates.
   
+ 
