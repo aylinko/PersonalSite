@@ -5,7 +5,7 @@ subtitle: Below are projects I have worked on during my time as a student. More 
 permalink: /work/
 ---
 
-### *Determining the Main Factors for Recidivism in Boston*
+### Determining the Main Factors for Recidivism in Boston
 #### September - December 2018 
 #### MIT Capstone 
 **Tools Used:**  R, Tableau 
