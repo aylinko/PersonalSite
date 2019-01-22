@@ -8,6 +8,7 @@ permalink: /work/
 ### **Determining the Main Factors for Recidivism in Boston**
  September - December 2018 
  MIT Capstone 
+ 
 **Tools Used:**  R, Tableau 
 
 Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs    in Boston
