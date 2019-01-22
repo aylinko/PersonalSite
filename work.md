@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-subtitle:Below are projects I have worked on
+subtitle: Below are projects I have worked on
 ---
 
 # Work
