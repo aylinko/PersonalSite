@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Imprisonment & Corruption vs. Government Type 
-date: 2019-1-20
-permalink: /stories/
 ---
 
 ## Background
