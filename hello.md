@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Stories
+title: Stories
 subtitle: My posts
 permalink: /stories/
 ---
