@@ -27,8 +27,6 @@ navbar-links:
   Work: "work" 
   Stories: "stories" 
 
-paginate_path: "/stories/page:num/"
-
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
