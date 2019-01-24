@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Imprisonment and Corruption versus Government Type 
+title: Imprisonment & Corruption vs. Government Type 
+date: 1-20-2019
 permalink: /stories/
 ---
 
