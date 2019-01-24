@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Imprisonment & Corruption vs. Government Type 
-subtitle: hello
 permalink: /stories/
 ---
 
