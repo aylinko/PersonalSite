@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Imprisonment and Corruption versus Government Type 
 permalink: /stories/
 ---
