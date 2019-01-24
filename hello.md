@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Stories
-subtitle: My posts
+subtitle: Below are posts.
 permalink: /stories/
 ---
 
-## Hello
 
-Hello World!
- 
