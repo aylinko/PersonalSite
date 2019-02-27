@@ -30,7 +30,7 @@ Recidivism was analyzed and visualized by using a combination of prison and fris
 
 The data set was created from scratch using multiple sources. I wanted to find out if there was a correlation between government type and corruption level with the amount of incarcerated people and jails each country and some territories have. The results showed there was no correlation between the type of government and level of corruption with the amount of people imprisoned and the number of prisons each country has.  
   
-A recreation of this project can be found in the [**Stories**][https://aylinko.github.io/2019-01-23-icg/] section.  
+A recreation of this project can be found in the ![**Stories**](https://aylinko.github.io/2019-01-23-icg/) section.  
 
  
 ### **The Incarceration Rates in the United States**
