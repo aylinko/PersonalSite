@@ -5,7 +5,7 @@ subtitle: Below are projects I have worked on during my time as a student and pr
 permalink: /work/
 ---
 
-### Determining the Main Factors for Recidivism in Boston
+### Analysis of Terror in the World
 #### Feburary 2019 
 #### Personal Project
 **Tools Used:**  R
