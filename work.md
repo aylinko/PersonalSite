@@ -13,7 +13,7 @@ permalink: /work/
 The data set contained data from 1970 to 2017. The intent was to find out where and when most attacks occur, who is the most targeted, which terrorist group attacks the most, and the nationality of the terrorists. Most attacks occurred in the Middle East/North Africa region. Individuals that don’t have a government position are the usual targets and most attacks occur in May and July. The year 2014 had the most attacks. The nationality of the terrorists were not found.
 
 [**Link to Github Repo for Project**](https://github.com/aylinko/globalterrorism) & [**Site for Project**](https://aylinko.github.io/globalterrorism/)
-
+ 
 
 ### Determining the Main Factors for Recidivism in Boston
 #### September - December 2018 
