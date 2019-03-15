@@ -22,7 +22,7 @@ The data set contained data from 1970 to 2017. The intent was to find out where 
 
 Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs    in Boston.
 
-
+ 
 ### **Imprisonment vs. Country Corruption & Government Type**
 #### April - May 2018
 #### Data Mining 
