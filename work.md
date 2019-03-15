@@ -33,7 +33,7 @@ The data set was created from scratch using multiple sources. I wanted to find o
 A recreation of this project can be found in the [**Stories**](https://aylinko.github.io/2019-01-23-icg/) section.  
 
  
-### **The Incarceration Rates in the United States**
+### **The Incarceration Rates in the United States** 
 #### April - May 2016 
 #### Structured Programming 
 **Tools Used:**  Python 
