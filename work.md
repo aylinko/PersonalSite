@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Work
-subtitle: Below are projects I have worked on during my time as a student and projects that were not related to my studies.
+subtitle: Below are projects I have worked on during my time as a student and projects that were not related to my studies in addition to publications that I have worked on.
 permalink: /work/
 ---
+
+## **Projects**
 
 ### Analysis of Terror in the World
 #### Feburary 2019 
@@ -20,7 +22,7 @@ The data set contained data from 1970 to 2017. The intent was to find out where 
 #### MIT Capstone 
 **Tools Used:**  R, Tableau 
 
-Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs    in Boston.
+Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs in Boston.
 
  
 ### **Imprisonment vs. Country Corruption & Government Type**
@@ -39,3 +41,7 @@ A recreation of this project can be found in the [**Stories**](https://aylinko.g
 **Tools Used:**  Python 
 
 This was a group project using K-means clustering. We concluded Republican states spent less on their inmates and rehabilitation services i.e., putting them on probation. While the Democratic states gave inmates the chance to get back into the workforce and there were lower incarceration rates.
+
+## **Publications**
+Kanavetas, O. & Kosar, A. (2021). Determining the Main Factors for Recidivism in Boston. International Journal of Applied Decision Sciences, 14(2), 208-229. [**Link**](https://www.inderscience.com/info/inarticle.php?artid=113529)
+
